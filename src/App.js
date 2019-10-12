@@ -1,12 +1,10 @@
 import React, { Component } from "react";
-import logo from './logo.svg';
 import './App.css';
 import friends from "./friends.json";
 import FriendCard from "./components/FriendCard";
 import Nav from "./components/Nav";
 import Title from "./components/Title";
 import Wrapper from "./components/Wrapper";
-import Header from "./components/Header";
 
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
