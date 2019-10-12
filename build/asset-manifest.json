@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/andresagu/clickyGameReact/static/css/main.2f332c70.chunk.css",
-    "main.js": "/andresagu/clickyGameReact/static/js/main.b54372e6.chunk.js",
-    "main.js.map": "/andresagu/clickyGameReact/static/js/main.b54372e6.chunk.js.map",
+    "main.css": "/andresagu/clickyGameReact/static/css/main.7b151497.chunk.css",
+    "main.js": "/andresagu/clickyGameReact/static/js/main.45d4d6dc.chunk.js",
+    "main.js.map": "/andresagu/clickyGameReact/static/js/main.45d4d6dc.chunk.js.map",
     "runtime-main.js": "/andresagu/clickyGameReact/static/js/runtime-main.da87c536.js",
     "runtime-main.js.map": "/andresagu/clickyGameReact/static/js/runtime-main.da87c536.js.map",
     "static/js/2.46ec92cf.chunk.js": "/andresagu/clickyGameReact/static/js/2.46ec92cf.chunk.js",
     "static/js/2.46ec92cf.chunk.js.map": "/andresagu/clickyGameReact/static/js/2.46ec92cf.chunk.js.map",
     "index.html": "/andresagu/clickyGameReact/index.html",
-    "precache-manifest.904d5192e60a56cc43c69c76400d2c29.js": "/andresagu/clickyGameReact/precache-manifest.904d5192e60a56cc43c69c76400d2c29.js",
+    "precache-manifest.953ce77d367377214b7db79dfd698586.js": "/andresagu/clickyGameReact/precache-manifest.953ce77d367377214b7db79dfd698586.js",
     "service-worker.js": "/andresagu/clickyGameReact/service-worker.js",
-    "static/css/main.2f332c70.chunk.css.map": "/andresagu/clickyGameReact/static/css/main.2f332c70.chunk.css.map",
-    "static/media/logo.svg": "/andresagu/clickyGameReact/static/media/logo.25bf045c.svg"
+    "static/css/main.7b151497.chunk.css.map": "/andresagu/clickyGameReact/static/css/main.7b151497.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.da87c536.js",
     "static/js/2.46ec92cf.chunk.js",
-    "static/css/main.2f332c70.chunk.css",
-    "static/js/main.b54372e6.chunk.js"
+    "static/css/main.7b151497.chunk.css",
+    "static/js/main.45d4d6dc.chunk.js"
   ]
 }
